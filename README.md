@@ -59,7 +59,7 @@ Real_estate_price_prediction/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Ayush-Repositories/Real-Estate-Price-Prediction)
 cd Real_estate_price_prediction
 ```
 
